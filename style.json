@@ -4,9 +4,9 @@
       "type": "polygon",
       "paint": {
         "fill-color": "#800080",
-        "fill-opacity": 0.05,  // Modifica questo valore (0.0 - 1.0)
+        "fill-opacity": 0.05,
         "stroke-color": "black",
-        "stroke-opacity": 0.7, // Modifica questo valore (0.0 - 1.0)
+        "stroke-opacity": 0.7,
         "stroke-width": 2
       }
     }
