@@ -5,7 +5,7 @@
   "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
   "style": "https://raw.githubusercontent.com/tosqui17/test/refs/heads/main/style.json",
   "today": {
-    "topo_json": "https://raw.githubusercontent.com/tosqui17/test/refs/heads/main/roccabernarda_geo.json",
+    "topo_json": "https://raw.githubusercontent.com/tosqui17/test/refs/heads/main/sanmauro_topo.json",
     "html_descrition": "<p>Per la giornata di oggi, Mercoledì 1 gennaio 2020:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>"
   }
 }
