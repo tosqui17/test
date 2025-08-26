@@ -6,64 +6,53 @@
         {
           "property": "color",
           "values": [
-            {
-              "key": "*",
-              "value": "black"
-            }
+            { "key": "*", "value": "black" },
+            { "key": "hover", "value": "black" },
+            { "key": "selected", "value": "black" }
           ]
         },
         {
           "property": "weight",
           "values": [
-            {
-              "key": "*",
-              "value": "2"
-            }
+            { "key": "*", "value": "2" },
+            { "key": "hover", "value": "3" },
+            { "key": "selected", "value": "3" }
           ]
         },
         {
           "property": "opacity",
           "values": [
-            {
-              "key": "*",
-              "value": ".1"
-            }
-          ]
-        },
-        {
-          "property": "fillOpacity",
-          "values": [
-            {
-              "key": "*",
-              "value": ".1"
-            }
-          ]
-        },
-                {
-          "property": "fillColor",
-          "values": [
-            {
-              "key": "*",
-              "value": "yellow"
-            }
+            { "key": "*", "value": ".1" },
+            { "key": "hover", "value": ".7" },
+            { "key": "selected", "value": ".7" }
           ]
         },
         {
           "property": "fill",
           "values": [
-            {
-              "key": "*",
-              "value": ".1"
-            }
+            { "key": "*", "value": "true" }
+          ]
+        },
+        {
+          "property": "fillColor",
+          "values": [
+            { "key": "*", "value": "yellow" },
+            { "key": "hover", "value": "yellow" },
+            { "key": "selected", "value": "yellow" }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            { "key": "*", "value": ".2" },
+            { "key": "hover", "value": ".6" },
+            { "key": "selected", "value": ".6" }
           ]
         },
         {
           "property": "fillRule",
           "values": [
-            {
-              "key": "*",
-              "value": "nonzero"
-            }
+            { "key": "*", "value": "nonzero" }
           ]
         }
       ]
