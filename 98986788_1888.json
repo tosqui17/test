@@ -3,7 +3,7 @@
   "date": "2021-07-20T18:47:22.796Z",
   "name": "Bollettino del 01 gennaio 2020 ore 15:30",
   "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/Legenda_BCR_vert.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200101_1530_style.json",
+  "style": "https://raw.githubusercontent.com/tosqui17/test/refs/heads/main/style.json",
   "today": {
     "topo_json": "https://raw.githubusercontent.com/tosqui17/test/refs/heads/main/roccabernarda.json",
     "html_descrition": "<p>Per la giornata di oggi, Mercoledì 1 gennaio 2020:<br/><b>ASSENZA DI FENOMENI SIGNIFICATIVI PREVEDIBILI / NESSUNA ALLERTA</b> </p>"
