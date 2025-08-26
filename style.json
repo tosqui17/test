@@ -26,7 +26,7 @@
           "values": [
             {
               "key": "*",
-              "value": ".7"
+              "value": ".5"
             }
           ]
         },
@@ -35,7 +35,16 @@
           "values": [
             {
               "key": "*",
-              "value": "0.1"
+              "value": ".05"
+            }
+          ]
+        },
+        {
+          "property": "fillOpacity",
+          "values": [
+            {
+              "key": "*",
+              "value": ".1"
             }
           ]
         }
