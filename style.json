@@ -56,6 +56,15 @@
               "value": ".1"
             }
           ]
+        },
+        {
+          "property": "fillRule",
+          "values": [
+            {
+              "key": "*",
+              "value": "nonzero"
+            }
+          ]
         }
       ]
     }
