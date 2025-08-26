@@ -31,7 +31,7 @@
           ]
         },
         {
-          "property": "fill",
+          "property": "fillOpacity",
           "values": [
             {
               "key": "*",
@@ -39,8 +39,17 @@
             }
           ]
         },
+                {
+          "property": "fillColor",
+          "values": [
+            {
+              "key": "*",
+              "value": "yellow"
+            }
+          ]
+        },
         {
-          "property": "fill-opacity",
+          "property": "fill",
           "values": [
             {
               "key": "*",
