@@ -231,11 +231,11 @@
     ]
   ],
   "transform": {
-    "scale": [0.00003240838933448918, 0.00003665319191118276],
+    "scale": [3.240838933448918e-5, 3.665319191118276e-5],
     "translate": [16.8165769, 38.996445900000005]
   },
   "objects": {
-    "roccabernarda": {
+    "comuni": {
       "type": "GeometryCollection",
       "geometries": [
         {
@@ -243,7 +243,16 @@
           "type": "Polygon",
           "properties": {
             "osm_id": -39785,
-            "name": "Roccabernarda"
+            "name": "Roccabernarda",
+            "name_en": null,
+            "boundary": "administrative",
+            "admin_level": 8,
+            "admin_centre_node_id": 67274990,
+            "admin_centre_node_lat": 39.1340896,
+            "admin_centre_node_lng": 16.8696568,
+            "label_node_id": null,
+            "label_node_lat": null,
+            "label_node_lng": null
           }
         }
       ]
