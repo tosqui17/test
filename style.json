@@ -29,6 +29,15 @@
               "value": ".7"
             }
           ]
+        },
+        {
+          "property": "fill",
+          "values": [
+            {
+              "key": "*",
+              "value": false
+            }
+          ]
         }
       ]
     }
