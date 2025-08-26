@@ -47,6 +47,15 @@
               "value": "#800080"
             }
           ]
+        },
+        {
+          "property": "fillOpacity:hover",
+          "values": [
+            {
+              "key": "*",
+              "value": "0.05"
+            }
+          ]
         }
       ]
     }
