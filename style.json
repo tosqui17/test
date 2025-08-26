@@ -40,7 +40,7 @@
           ]
         },
         {
-          "property": "fillOpacity",
+          "property": "fill-opacity",
           "values": [
             {
               "key": "*",
