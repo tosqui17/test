@@ -31,20 +31,11 @@
           ]
         },
         {
-          "property": "fillOpacity",
+          "property": "fill",
           "values": [
             {
               "key": "*",
-              "value": "0.2"
-            }
-          ]
-        },
-        {
-          "property": "fillColor",
-          "values": [
-            {
-              "key": "*",
-              "value": "#800080"
+              "value": "False"
             }
           ]
         }
