@@ -1,14 +1,108 @@
 {
-  "styles": [
+
+  "style_properties": [
+
     {
-      "type": "polygon",
-      "paint": {
-        "fill-color": "#800080",
-        "fill-opacity": 0.05,
-        "stroke-color": "black",
-        "stroke-opacity": 0.7,
-        "stroke-width": 2
-      }
+
+      "propertyKey": "Rappresentata nella mappa",
+
+      "properties": [
+
+        {
+
+          "property": "color",
+
+          "values": [
+
+            {
+
+              "key": "*",
+
+              "value": "black"
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "property": "weight",
+
+          "values": [
+
+            {
+
+              "key": "*",
+
+              "value": "2"
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "property": "opacity",
+
+          "values": [
+
+            {
+
+              "key": "*",
+
+
+              "value": ".7"
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "property": "fillOpacity",
+
+          "values": [
+
+            {
+
+              "key": "*",
+
+              "value": "0.2"
+
+            }
+
+          ]
+
+        },
+
+        {
+
+          "property": "fillColor",
+
+          "values": [
+
+            {
+
+              "key": "*",
+
+              "value": "#800080"
+
+            }
+
+          ]
+
+        }
+
+      ]
+
     }
+
   ]
+
 }
