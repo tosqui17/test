@@ -9,7 +9,7 @@
       "properties": [
 
 
-        { "property": "fillColor", "values": [{ "key": "*", "value": "yellow" }] },
+        { "property": "color", "values": [{ "key": "*", "value": "yellow" }] },
 
 
         { "property": "fill",       "values": [{ "key": "*", "value": false }] },
@@ -18,10 +18,8 @@
         { "property": "weight",     "values": [{ "key": "*", "value": 2 }] },
 
 
-        { "property": "opacity",    "values": [{ "key": "*", "value": 0.1 }] },
+        { "property": "opacity",    "values": [{ "key": "*", "value": 0.8 }] },
 
-
-        { "property": "fillOpacity","values": [{ "key": "*", "value": 0.1 }] }
       ]
     }
   ]
