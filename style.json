@@ -1,25 +1,56 @@
 {
-
   "style_properties": [
-
     {
-
       "propertyKey": "Comuni",
 
       "properties": [
+        {
+          "property": "color",
 
+          "values": [
+            {
+              "key": "*",
 
-        { "property": "color", "values": [{ "key": "*", "value": "yellow" }] },
+              "value": "green"
+            }
+          ]
+        },
 
+        {
+          "property": "weight",
 
-        { "property": "fill",       "values": [{ "key": "*", "value": false }] },
+          "values": [
+            {
+              "key": "*",
 
+              "value": "2"
+            }
+          ]
+        },
 
-        { "property": "weight",     "values": [{ "key": "*", "value": 2 }] },
+        {
+          "property": "opacity",
 
+          "values": [
+            {
+              "key": "*",
 
-        { "property": "opacity",    "values": [{ "key": "*", "value": 0.8 }] },
+              "value": ".7"
+            }
+          ]
+        },
 
+        {
+          "property": "fill",
+
+          "values": [
+            {
+              "key": "*",
+
+              "value": false
+            }
+          ]
+        }
       ]
     }
   ]
