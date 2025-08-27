@@ -1,7 +1,11 @@
 {
   "date": "20250731",
   "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/legenda_bv_verticale.jpg",
-  "style": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200101_1530_style.json",
+  "style": [
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Criticita-Idrogeologica-Idraulica/master/files/topojson/20200101_1530_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/topojson/20250731_style.json",
+    "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/topojson/20250731_fenomeni_style.json"
+  ],
   "today": {
     "attachment": [
       {
@@ -46,10 +50,6 @@
     ],
     "html_description": "<p ><strong>Precipitazioni</strong>: </p><p >- sparse, a prevalente carattere di rovescio o temporale, sui settori alpini del Piemonte settentrionale, sui settori alpini e prealpini della Lombardia e sul Triveneto, in sconfinamento dalla tarda serata alla pianura lombarda, con quantitativi cumulati puntualmente moderati;</p><p >- isolati rovesci o temporali ad evoluzione pomeridiana sui restanti settori alpini e settentrionali del Piemonte e su rilievi della Liguria, settore appenninico e pianura centrale dell'Emilia, settore meridionale dell'Appennino marchigiano, rilievi del versante orientale dell'Appennino abruzzese, zone interne della Campania meridionale e della Basilicata meridionale e zone interne e rilievi della Calabria centro-settentrionale, con quantitativi cumulati deboli.</p><p ><strong>Visibilità</strong>: nessun fenomeno significativo.</p><p ><strong>Temperature</strong>: nessun fenomeno significativo.</p><p ><strong>Venti</strong>: nessun fenomeno significativo.</p><p ><strong>Mari</strong>: nessun fenomeno significativo.</p>"
   },
-  "style": [
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/topojson/20250731_style.json",
-    "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/topojson/20250731_fenomeni_style.json"
-  ],
   "aftertomorrow": {
     "attachment": [
       {
