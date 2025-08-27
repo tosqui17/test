@@ -2,20 +2,6 @@
   "date": "20250731",
   "global_legend": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/legenda_bv_verticale.jpg",
   "today": {
-    "attachment": [
-      {
-        "xml": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/xml/20250731.zip"
-      },
-      {
-        "pdf": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/pdf/20250731.zip"
-      },
-      {
-        "shp": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/shp/20250731.zip"
-      },
-      {
-        "all": "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/all/20250731.zip"
-      }
-    ],
     "topo_json": [
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/topojson/20250731_oggi.json",
       "https://raw.githubusercontent.com/pcm-dpc/DPC-Bollettini-Vigilanza-Meteorologica/master/files/topojson/20250731_fenomeni_oggi.json"
