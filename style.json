@@ -3,15 +3,10 @@
     {
       "propertyKey": "Comuni",
       "properties": [
-        { "property": "color", "values": [{ "key": "*", "value": "black" }] },
-        { "property": "fillColor", "values": [{ "key": "*", "value": "yellow" }] },
-        { "property": "fill",       "values": [{ "key": "*", "value": "0.4" }] },
-        { "property": "weight",     "values": [{ "key": "*", "value": 2 }] },
-        { "property": "opacity",    "values": [{ "key": "*", "value": 0.1 }] },
-        { "property": "fillOpacity","values": [{ "key": "*", "value": 0.1 }] },
-
-        { "property": "hover.opacity",     "values": [{ "key": "*", "value": 0.2 }] },
-        { "property": "hover.fillOpacity", "values": [{ "key": "*", "value": 0.2 }] }
+        { "property": "opacity",        "values": [{ "key": "*", "value": 0.1 }] },
+        { "property": "fillOpacity",    "values": [{ "key": "*", "value": 0.1 }] },
+        { "property": "opacity:hover",  "values": [{ "key": "*", "value": 0.2 }] },
+        { "property": "fillOpacity:hover","values":[{ "key": "*", "value": 0.2 }] }
       ]
     }
   ]
