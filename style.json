@@ -3,18 +3,13 @@
     {
       "propertyKey": "Comuni",
       "properties": [
+        { "property": "className",   "values": [{ "key": "*", "value": "hover-20" }] },
+        { "property": "fill",        "values": [{ "key": "*", "value": true }] },
+        { "property": "weight",      "values": [{ "key": "*", "value": 2 }] },
+        { "property": "color",       "values": [{ "key": "*", "value": "black" }] },
+        { "property": "fillColor",   "values": [{ "key": "*", "value": "yellow" }] },
         { "property": "opacity",     "values": [{ "key": "*", "value": 0.1 }] },
         { "property": "fillOpacity", "values": [{ "key": "*", "value": 0.1 }] }
-      ],
-      "interactions": [
-        {
-          "event": "mouseover",
-          "style": { "opacity": 0.2, "fillOpacity": 0.2 }
-        },
-        {
-          "event": "mouseout",
-          "style": { "opacity": 0.1, "fillOpacity": 0.1 }
-        }
       ]
     }
   ]
